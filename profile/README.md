@@ -1,12 +1,7 @@
 ## Hi there 👋
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+🙋‍♀️ 🌍银狐知识星球
+🌈 建立组织仓库发扬开源精神
+👩‍💻 欢迎关注微信公众号： 架构师部落
+🍿 目前靠爱发电
+🧙 终极目标是：找到创业方向，实现一个人的公司，早日脱离搬砖。回家养老。
